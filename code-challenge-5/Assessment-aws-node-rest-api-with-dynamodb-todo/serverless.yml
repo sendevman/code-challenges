@@ -1,6 +1,6 @@
-service: server1108
-
-
+org: server1108
+app: my-crud
+service: crud
 
 provider:
   name: aws
